@@ -1,3 +1,3 @@
 print("Hey you")
 старт ракеты
-()
+(hello, my darling)
