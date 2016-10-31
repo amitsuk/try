@@ -1,3 +1,4 @@
-print("Hey you")
-старт ракеты
-(hello, my darling)
+print("Hey you");
+старт ракеты;
+(hello, my darling);
+()
